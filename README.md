@@ -1,4 +1,8 @@
 # DevOps Todo App
+# DevOps Todo App
+
+[![CI](https://github.com/Iconicash/devops-end-to-end-project/actions/workflows/ci.yml/badge.svg)](https://github.com/Iconicash/devops-end-to-end-project/actions/workflows/ci.yml)
+[![CD](https://github.com/Iconicash/devops-end-to-end-project/actions/workflows/cd.yml/badge.svg)](https://github.com/Iconicash/devops-end-to-end-project/actions/workflows/cd.yml)
 
 A simple Todo REST API + frontend, built as the base application for an
 end-to-end DevOps learning project: Docker → CI/CD → Kubernetes → Terraform → Monitoring.
@@ -40,6 +44,6 @@ npm test
 
 ## Project Roadmap
 - [x] Week 1: App + Docker + Docker Compose
-- [ ] Week 2: CI/CD with GitHub Actions
+- [x] Week 2: CI/CD with GitHub Actions
 - [ ] Week 3: Terraform + Kubernetes deployment
 - [ ] Week 4: Prometheus + Grafana monitoring
